@@ -15,7 +15,7 @@ public final class Soar {
 
 	private static final String
 			NAME = "Soar Lite",
-			VERSION = "1.0";
+			VERSION = "1.1";
 
 	public KeyBindManager keyBindManager;
 	public SettingsManager settingsManager;
